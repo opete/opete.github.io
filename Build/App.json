@@ -1,7 +1,7 @@
 {
 "companyName": "o_pete",
 "productName": "Pofa Be & Fuss",
-"productVersion": "0.1",
+"productVersion": "0.2",
 "dataUrl": "App.data.unityweb",
 "wasmCodeUrl": "App.wasm.code.unityweb",
 "wasmFrameworkUrl": "App.wasm.framework.unityweb",
